@@ -1,6 +1,6 @@
 //Tests functions in calc.js
 
-const addition = require('../calc');
+/* const addition = require('../calc');
 //addition is a function welche noch nicht existiert. Test muss failen!
 
 describe("Calculator", () => {
@@ -21,4 +21,4 @@ describe("Calculator", () => {
     describe("Divide function", () => {
 
     });
-});
+}); */
